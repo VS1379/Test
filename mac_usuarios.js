@@ -1,4 +1,4 @@
 let usuarios = {
-    nombre: 'Mac',
-    email: 'mac@gmail.com'
-}
+  nombreCompleto: "MaC",
+  email: "mac@hotmail.com",
+};
